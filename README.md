@@ -26,7 +26,7 @@ I'm a Senior Security Engineer , i love CTF and Hackthebox
 
 <b>My GitHub Stats</b>
 
-[![Jadkorr's GitHub stats](https://github-stats-extended.vercel.app/api?username=jadkorr)]
+[![Jadkorr's GitHub stats](https://github-stats-extended.vercel.app/api?username=jadkorr)](https://github.com/jadkorr)
 
 ### Support Me
 
